@@ -1,0 +1,1 @@
+Notebooks with problems from Data Reduction and Error Analysis for the Physical Sciences 3rd edition by Bevington and Robinson.
